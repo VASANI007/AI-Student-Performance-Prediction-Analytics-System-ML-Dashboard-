@@ -50,6 +50,13 @@ An advanced **Machine Learning + Data Analytics project** that predicts student 
 
 # ⚙️ Run Project (IMPORTANT)
 
+# 📥 Clone & Download
+
+### 🔹 Clone Repository
+```bash
+git clone https://github.com/VASANI007/AI-Student-Performance-Prediction-Analytics-System-ML-Dashboard-
+```
+
 ### 🔹 Train Model
 ```bash
 python main.py --mode train
