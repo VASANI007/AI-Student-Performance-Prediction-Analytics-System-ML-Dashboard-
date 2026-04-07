@@ -109,6 +109,7 @@ STUDENT-PERFORMANCE-PREDICTION/
 │   ├── feature_engineering.py
 │   ├── train_model.py
 │   ├── predict.py
+│   ├── rule_engine.py
 │   └── evaluate_model.py
 │
 ├── main.py
